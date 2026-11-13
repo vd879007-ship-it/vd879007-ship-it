@@ -1,175 +1,145 @@
-&#x20;\<div align="center">
+
+<div align="center">
 
 # 💜 Dinesh V
 
 ### `Code • Create • Innovate`
 
-\<img src="[https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=B56AFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+Aspiring;MERN+Stack+Enthusiast;UI%2FUX+Designer;Building+Creative+Digital+Experiences](https://readme-typing-svg.demolab.com?font=Orbitron\&weight=600\&size=22\&duration=3000\&pause=1000\&color=B56AFF\&center=true\&vCenter=true\&width=600\&lines=Full+Stack+Developer+Aspiring;MERN+Stack+Enthusiast;UI%2FUX+Designer;Building+Creative+Digital+Experiences)" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=B56AFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;UI%2FUX+Designer;Building+Creative+Digital+Experiences" />
 
 **Dream Big... Build Bigger... 🚀**
 
+<a href="https://github.com/vd879007-ship-it">
+<img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-\
-
-
-\</div>
+</div>
 
 ---
 
-## 👩‍💻 About Me
+## 👨‍💻 About Me
 
 - 🎓 Computer Science Engineering Student
-- 💻 Aspiring Full Stack Developer (MERN Stack)
-- 🎨 Interested in UI/UX Design & Creative Development
-- 🌱 Currently learning modern web technologies
-- 🚀 Passionate about building innovative digital solutions
-- ⚡ Love exploring new technologies and solving problems
+- 💻 Full Stack Developer at Skillstar Digital Solutions
+- 🚀 Interested in MERN Stack Development
+- 🎨 Passionate about UI/UX Design
+- 🌱 Exploring modern web technologies
+- ⚡ Building creative and innovative digital experiences
 
 ---
 
 ## 🛠️ Tech Stack
 
-\<div align="center">
+<div align="center">
 
 ### Frontend Development
 
-\<img src="[https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind)" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind" />
 
 ### Backend Development
 
-\<img src="[https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 
 ### Tools & Technologies
 
-\<img src="[https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vite](https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vite)" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vite" />
 
-\</div>
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
-\<div align="center">
+<div align="center">
 
-\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=karthikeyeni175-coder&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=karthikeyeni175-coder\&show_icons=true\&theme=midnight-purple\&hide_border=true\&count_private=true)" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vd879007-ship-it&show_icons=true&theme=midnight-purple&hide_border=true" />
 
-\<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyeni175-coder&layout=compact&theme=midnight-purple&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyeni175-coder\&layout=compact\&theme=midnight-purple\&hide_border=true)" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vd879007-ship-it&layout=compact&theme=midnight-purple&hide_border=true" />
 
-\<br/>
+<br/><br/>
 
-\<img width="70%" src="[https://streak-stats.demolab.com?user=karthikeyeni175-coder&theme=midnight-purple&hide_border=true](https://streak-stats.demolab.com?user=karthikeyeni175-coder\&theme=midnight-purple\&hide_border=true)" />
+<img width="70%" src="https://streak-stats.demolab.com?user=vd879007-ship-it&theme=midnight-purple&hide_border=true" />
 
-\</div>
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-\<table>
-\<tr>
-\<td width="50%">
+<div align="center">
 
-### 💪 TitanFit
-
-Modern Gym Website
-
-- Responsive UI
-- BMI Calculator
-- Calorie Calculator
-- Smooth Animations
-
-\</td>
-\<td width="50%">
+<a href="https://rokeabyrk.com">
+<img src="https://img.shields.io/badge/ROKEA_by_RK-Premium_Fashion-9B4DFF?style=for-the-badge"/>
+</a>
 
 ### 👗 ROKEA by RK
+Premium Fashion & Saree Boutique Website
 
-Premium Fashion Boutique
+**Luxury UI | Saree Collections | Jewellery | Responsive Design**
 
-- Luxury UI Design
-- Saree Collections
-- Jewellery Showcase
-- Responsive Website
+<br/>
 
-[Visit Website](https://rokeabyrk.com)
+### 💪 TitanFit
+Modern Gym & Fitness Website
 
-\</td>
-\</tr>
-\<tr>
-\<td width="50%">
+**BMI Calculator | Calorie Calculator | Responsive Design**
+
+<br/>
 
 ### 🍰 Aanadhas
-
 Bakery & Sweets Website
 
-- Modern Website Design
-- Product Showcase
-- Interactive Animations
+**Product Showcase | Modern UI | Interactive Animations**
 
-\</td>
-\<td width="50%">
-
-### 🌐 Personal Portfolio
-
-My Developer Portfolio
-
-- Personal Introduction
-- Skills & Projects
-- Contact Information
-
-[Visit Portfolio](https://karthikeyeni175-coder.github.io/kkportfolio)
-
-\</td>
-\</tr>
-\</table>
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-\<div align="center">
+<div align="center">
 
-\<img src="[https://github-profile-trophy.vercel.app/?username=karthikeyeni175-coder&theme=discord&no-frame=true&no-bg=true&margin-w=5](https://github-profile-trophy.vercel.app/?username=karthikeyeni175-coder\&theme=discord\&no-frame=true\&no-bg=true\&margin-w=5)" />
+<img src="https://github-profile-trophy.vercel.app/?username=vd879007-ship-it&theme=discord&no-frame=true&no-bg=true&margin-w=5" />
 
-\</div>
+</div>
 
 ---
 
 ## 📈 Contribution Graph
 
-\<div align="center">
+<div align="center">
 
-\<img src="[https://github-readme-activity-graph.vercel.app/graph?username=karthikeyeni175-coder&bg_color=0d1117&color=c084fc&line=9333ea&point=ffffff&area=true&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=karthikeyeni175-coder\&bg_color=0d1117\&color=c084fc\&line=9333ea\&point=ffffff\&area=true\&hide_border=true)" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vd879007-ship-it&bg_color=0d1117&color=c084fc&line=9333ea&point=ffffff&area=true&hide_border=true" width="100%" />
 
-\</div>
+</div>
 
 ---
 
 ## 🤝 Connect With Me
 
-\<div align="center">
+<div align="center">
 
-\<a href="[https://github.com/karthikeyeni175-coder](https://github.com/karthikeyeni175-coder)">
-\<img src="[https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge\&logo=github\&logoColor=white)" />
-\</a>
+<a href="https://github.com/vd879007-ship-it">
+<img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-\<a href="[https://www.linkedin.com/in/karthi-keyeni-04b74339b/](https://www.linkedin.com/in/karthi-keyeni-04b74339b/)">
-\<img src="[https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge\&logo=linkedin\&logoColor=white)" />
-\</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-\<a href="[https://karthikeyeni175-coder.github.io/kkportfolio](https://karthikeyeni175-coder.github.io/kkportfolio)">
-\<img src="[https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge\&logo=googlechrome\&logoColor=white)" />
-\</a>
-
-\</div>
+</div>
 
 ---
 
-\<div align="center">
+<div align="center">
 
 ### 💜 Building a Better Tomorrow
 
 **FULL STACK DEVELOPER | TECH ENTHUSIAST | LIFELONG LEARNER**
 
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&customColorList=6,12,20\&height=100\&section=footer)" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" />
 
-\</div>
+</div>
